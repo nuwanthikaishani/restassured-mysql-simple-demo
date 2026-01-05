@@ -1,4 +1,9 @@
 package demo;
 
-public class BookingApiDbTest {
+import io.restassured.mapper.ObjectMapper;
+
+public class BookingApiDbTest extends BaseTest{
+
+
+
 }
